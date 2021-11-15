@@ -6,7 +6,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        ts_webgl: "./main.ts",
+        ts_webgl: "./src/main.ts",
     },
     output: {
         publicPath: '/',
